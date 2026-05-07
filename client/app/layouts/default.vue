@@ -2,6 +2,6 @@
 
 <template>
 	<AppHeader />
-	<slot />
+	<main class="min-vh-100"><slot /></main>
 	<AppFooter />
 </template>
